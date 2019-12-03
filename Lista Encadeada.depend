@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1495403500 source:c:\users\julia\facul 2k17\aed\lista encadeada\linkedlist.c
+	<stdlib.h>
+	<stdio.h>
+	"linkedList.h"
+
+1495399458 c:\users\julia\facul 2k17\aed\lista encadeada\linkedlist.h
+
+1495403446 source:c:\users\julia\facul 2k17\aed\lista encadeada\main.c
+	<stdio.h>
+	<stdlib.h>
+	"linkedList.h"
+
